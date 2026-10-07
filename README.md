@@ -1,4 +1,5 @@
-# تحليل وفحص بيانات السيارات المستعملة في السعودية
+# تحليل وفحص بيانات السيارات المستعملة في السعودية <img width="1536" height="1360" alt="image" src="https://github.com/user-attachments/assets/5c42039d-3215-416d-b6ed-45055f679662" />
+
 Used Cars Price Analysis & Prediction in Saudi Arabia
 
 مشروع تحليلي متكامل يتكون من عدة مراحل تهدف إلى استكشاف، تنظيف، وتحليل سوق السيارات المستعملة في المملكة العربية السعودية باستخدام Python، SQL، و Power BI.
